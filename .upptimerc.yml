@@ -4,13 +4,15 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Les Gîtes de Keregal
-    url: https://www.gites-keregal.com/
+    url: https://www.gites-keregal.com
   - name: Karat
     url: https://karat-bijouterie.fr
   - name: La gerbe d'or
-    url: https://lagerbedor92.fr/
+    url: https://lagerbedor92.fr
   - name: Amelie's workshop
-    url: https://ameliesworkshop.fr/
+    url: https://ameliesworkshop.fr
+  - name: Angkor
+    url: https://angkor-fougeres.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
