@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 1099,
+    "time": 913,
+    "timeDay": 1056,
     "timeWeek": 862,
-    "timeMonth": 869,
-    "timeYear": 911,
+    "timeMonth": 870,
+    "timeYear": 913,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 905,
-    "timeDay": 1058,
-    "timeWeek": 870,
-    "timeMonth": 858,
-    "timeYear": 905,
+    "time": 907,
+    "timeDay": 1132,
+    "timeWeek": 874,
+    "timeMonth": 864,
+    "timeYear": 907,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 983,
-    "timeWeek": 813,
-    "timeMonth": 782,
-    "timeYear": 831,
+    "time": 834,
+    "timeDay": 1136,
+    "timeWeek": 847,
+    "timeMonth": 788,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1012,
-    "timeDay": 1117,
-    "timeWeek": 945,
-    "timeMonth": 977,
-    "timeYear": 1012,
+    "time": 1014,
+    "timeDay": 1166,
+    "timeWeek": 963,
+    "timeMonth": 979,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2022-06-21": 20
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 837,
-    "timeWeek": 567,
-    "timeMonth": 592,
-    "timeYear": 636,
+    "time": 637,
+    "timeDay": 685,
+    "timeWeek": 563,
+    "timeMonth": 590,
+    "timeYear": 637,
     "dailyMinutesDown": {}
   },
   {
@@ -108,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-16": 69,
+      "2022-07-17": 71,
+      "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
