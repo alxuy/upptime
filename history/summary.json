@@ -4,10 +4,10 @@
     "url": "https://www.gites-keregal.com",
     "icon": "https://favicons.githubusercontent.com/www.gites-keregal.com",
     "slug": "les-gites-de-keregal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 898,
@@ -15,17 +15,19 @@
     "timeWeek": 935,
     "timeMonth": 844,
     "timeYear": 898,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "Karat",
     "url": "https://karat-bijouterie.fr",
     "icon": "https://favicons.githubusercontent.com/karat-bijouterie.fr",
     "slug": "karat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 903,
@@ -33,7 +35,9 @@
     "timeWeek": 981,
     "timeMonth": 856,
     "timeYear": 903,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "La gerbe d'or",
@@ -78,9 +82,9 @@
     "url": "https://angkor-fougeres.fr",
     "icon": "https://favicons.githubusercontent.com/angkor-fougeres.fr",
     "slug": "angkor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +93,9 @@
     "timeWeek": 641,
     "timeMonth": 598,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 0
+    }
   },
   {
     "name": "Test Broken Site",
@@ -108,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-20": 80,
+      "2022-09-20": 701,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
