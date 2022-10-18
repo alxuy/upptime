@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
     "status": "up",
-    "uptime": "95.46%",
+    "uptime": "95.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "74.46%",
-    "uptimeYear": "95.46%",
+    "uptimeYear": "95.48%",
     "time": 898,
     "timeDay": 643,
     "timeWeek": 923,
@@ -90,9 +90,9 @@
     "url": "https://angkor-fougeres.fr",
     "icon": "https://icons.duckduckgo.com/ip3/angkor-fougeres.fr.ico",
     "slug": "angkor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
@@ -102,6 +102,7 @@
     "timeMonth": 1012,
     "timeYear": 701,
     "dailyMinutesDown": {
+      "2022-10-18": 0,
       "2022-10-10": 37
     }
   },
@@ -122,7 +123,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-18": 83,
+      "2022-10-18": 1336,
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
