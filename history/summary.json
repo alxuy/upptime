@@ -4,10 +4,10 @@
     "url": "https://www.gites-keregal.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.gites-keregal.com.ico",
     "slug": "les-gites-de-keregal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 899,
@@ -16,6 +16,7 @@
     "timeMonth": 869,
     "timeYear": 899,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2022-11-16": 103,
       "2022-09-20": 18
     }
@@ -26,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.13%",
     "time": 883,
     "timeDay": 1042,
     "timeWeek": 960,
@@ -71,9 +72,9 @@
     "url": "https://ameliesworkshop.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ameliesworkshop.fr.ico",
     "slug": "amelie-s-workshop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -83,6 +84,7 @@
     "timeMonth": 990,
     "timeYear": 1009,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-06-21": 20
     }
   },
@@ -124,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 54,
+      "2023-01-25": 449,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
