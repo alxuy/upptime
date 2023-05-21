@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 908,
-    "timeDay": 626,
-    "timeWeek": 898,
-    "timeMonth": 850,
-    "timeYear": 904,
+    "timeDay": 645,
+    "timeWeek": 812,
+    "timeMonth": 840,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2023-01-25": 45,
       "2022-11-16": 103,
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "97.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
     "time": 865,
-    "timeDay": 647,
-    "timeWeek": 801,
-    "timeMonth": 796,
-    "timeYear": 861,
+    "timeDay": 645,
+    "timeWeek": 735,
+    "timeMonth": 788,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2022-10-05": 1242,
       "2022-10-04": 1440,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 828,
-    "timeDay": 820,
-    "timeWeek": 795,
-    "timeMonth": 750,
-    "timeYear": 823,
+    "time": 827,
+    "timeDay": 667,
+    "timeWeek": 742,
+    "timeMonth": 745,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2023-01-25": 60
     }
@@ -81,10 +81,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1001,
-    "timeDay": 1012,
-    "timeWeek": 1001,
-    "timeMonth": 947,
-    "timeYear": 998,
+    "timeDay": 1269,
+    "timeWeek": 994,
+    "timeMonth": 957,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2023-01-25": 73,
       "2022-06-21": 20
@@ -101,10 +101,10 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 638,
-    "timeDay": 528,
-    "timeWeek": 563,
-    "timeMonth": 573,
+    "time": 637,
+    "timeDay": 442,
+    "timeWeek": 538,
+    "timeMonth": 568,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2023-05-16": 34,
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 51,
+      "2023-05-21": 56,
+      "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -492,8 +493,7 @@
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
-      "2022-05-22": 1440,
-      "2022-05-21": 1440
+      "2022-05-22": 1440
     }
   }
 ]
