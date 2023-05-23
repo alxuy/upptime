@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 908,
-    "timeDay": 1162,
-    "timeWeek": 801,
-    "timeMonth": 848,
+    "timeDay": 770,
+    "timeWeek": 820,
+    "timeMonth": 853,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2023-01-25": 45,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
-    "time": 866,
-    "timeDay": 1118,
-    "timeWeek": 769,
-    "timeMonth": 797,
+    "time": 865,
+    "timeDay": 748,
+    "timeWeek": 785,
+    "timeMonth": 801,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2022-10-05": 1242,
@@ -60,10 +60,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 828,
-    "timeDay": 937,
-    "timeWeek": 758,
-    "timeMonth": 747,
+    "time": 827,
+    "timeDay": 657,
+    "timeWeek": 767,
+    "timeMonth": 748,
     "timeYear": 822,
     "dailyMinutesDown": {
       "2023-01-25": 60
@@ -80,10 +80,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1002,
-    "timeDay": 1162,
-    "timeWeek": 1011,
-    "timeMonth": 966,
+    "time": 1001,
+    "timeDay": 746,
+    "timeWeek": 1003,
+    "timeMonth": 965,
     "timeYear": 997,
     "dailyMinutesDown": {
       "2023-01-25": 73,
@@ -101,10 +101,10 @@
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 638,
-    "timeDay": 751,
-    "timeWeek": 582,
-    "timeMonth": 579,
+    "time": 637,
+    "timeDay": 540,
+    "timeWeek": 595,
+    "timeMonth": 582,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2023-05-16": 34,
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-22": 56,
+      "2023-05-23": 53,
+      "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -492,8 +493,7 @@
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
-      "2022-05-24": 1440,
-      "2022-05-23": 1440
+      "2022-05-24": 1440
     }
   }
 ]
