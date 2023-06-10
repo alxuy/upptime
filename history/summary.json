@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 906,
-    "timeDay": 619,
-    "timeWeek": 900,
+    "timeDay": 652,
+    "timeWeek": 879,
     "timeMonth": 868,
-    "timeYear": 904,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2023-01-25": 45,
       "2022-11-16": 103,
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
     "time": 863,
-    "timeDay": 644,
-    "timeWeek": 812,
-    "timeMonth": 803,
-    "timeYear": 856,
+    "timeDay": 740,
+    "timeWeek": 837,
+    "timeMonth": 807,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2022-10-05": 1242,
       "2022-10-04": 1440,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 826,
-    "timeDay": 531,
-    "timeWeek": 797,
-    "timeMonth": 778,
-    "timeYear": 822,
+    "time": 825,
+    "timeDay": 627,
+    "timeWeek": 790,
+    "timeMonth": 779,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2023-01-25": 60
     }
@@ -81,10 +81,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1002,
-    "timeDay": 786,
-    "timeWeek": 1082,
-    "timeMonth": 1006,
-    "timeYear": 999,
+    "timeDay": 791,
+    "timeWeek": 1063,
+    "timeMonth": 1008,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2023-01-25": 73,
       "2022-06-21": 20
@@ -102,10 +102,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 637,
-    "timeDay": 438,
-    "timeWeek": 601,
-    "timeMonth": 616,
-    "timeYear": 635,
+    "timeDay": 439,
+    "timeWeek": 587,
+    "timeMonth": 617,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2023-05-16": 34,
       "2022-10-18": 25,
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-09": 62,
+      "2023-06-10": 57,
+      "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -492,8 +493,7 @@
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
-      "2022-06-11": 1440,
-      "2022-06-10": 1440
+      "2022-06-11": 1440
     }
   }
 ]
