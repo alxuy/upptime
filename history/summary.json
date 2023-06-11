@@ -74,18 +74,19 @@
     "url": "https://ameliesworkshop.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ameliesworkshop.fr.ico",
     "slug": "amelie-s-workshop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1002,
     "timeDay": 1101,
-    "timeWeek": 1062,
+    "timeWeek": 1003,
     "timeMonth": 1010,
     "timeYear": 998,
     "dailyMinutesDown": {
+      "2023-06-11": 0,
       "2023-01-25": 73,
       "2022-06-21": 20
     }
@@ -129,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-11": 66,
+      "2023-06-11": 880,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
