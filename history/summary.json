@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 907,
-    "timeDay": 1047,
-    "timeWeek": 910,
+    "timeDay": 0,
+    "timeWeek": 954,
     "timeMonth": 886,
-    "timeYear": 903,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2023-01-25": 45,
       "2022-11-16": 103,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
     "time": 863,
-    "timeDay": 967,
-    "timeWeek": 857,
-    "timeMonth": 818,
-    "timeYear": 855,
+    "timeDay": 0,
+    "timeWeek": 891,
+    "timeMonth": 820,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2022-10-05": 1242,
       "2022-10-04": 1440,
@@ -61,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 826,
-    "timeDay": 1039,
-    "timeWeek": 826,
+    "timeDay": 0,
+    "timeWeek": 863,
     "timeMonth": 796,
-    "timeYear": 822,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2023-01-25": 60
     }
@@ -81,10 +81,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1003,
-    "timeDay": 1168,
-    "timeWeek": 1008,
-    "timeMonth": 1025,
-    "timeYear": 999,
+    "timeDay": 0,
+    "timeWeek": 1042,
+    "timeMonth": 1027,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2023-01-25": 73,
       "2022-06-21": 20
@@ -102,10 +102,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 637,
-    "timeDay": 688,
-    "timeWeek": 575,
-    "timeMonth": 614,
-    "timeYear": 634,
+    "timeDay": 0,
+    "timeWeek": 612,
+    "timeMonth": 613,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2023-05-16": 34,
       "2022-10-18": 25,
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-12": 63,
+      "2023-06-13": 60,
+      "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -492,8 +493,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1440,
-      "2022-06-13": 1440
+      "2022-06-14": 1440
     }
   }
 ]
