@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 907,
-    "timeDay": 1149,
-    "timeWeek": 920,
-    "timeMonth": 975,
+    "timeDay": 951,
+    "timeWeek": 964,
+    "timeMonth": 967,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2023-01-25": 45,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
     "time": 864,
-    "timeDay": 1035,
-    "timeWeek": 858,
-    "timeMonth": 912,
-    "timeYear": 848,
+    "timeDay": 1197,
+    "timeWeek": 936,
+    "timeMonth": 915,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2022-10-05": 1242,
       "2022-10-04": 1440,
@@ -61,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 824,
-    "timeDay": 987,
-    "timeWeek": 818,
-    "timeMonth": 858,
-    "timeYear": 826,
+    "timeDay": 792,
+    "timeWeek": 846,
+    "timeMonth": 852,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2023-01-25": 60
     }
@@ -81,9 +81,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1038,
-    "timeDay": 1205,
-    "timeWeek": 997,
-    "timeMonth": 1033,
+    "timeDay": 964,
+    "timeWeek": 1030,
+    "timeMonth": 1030,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2023-08-10": 17,
@@ -102,10 +102,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 634,
-    "timeDay": 1093,
-    "timeWeek": 670,
+    "timeDay": 634,
+    "timeWeek": 688,
     "timeMonth": 669,
-    "timeYear": 634,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2023-05-16": 34,
       "2022-10-18": 25,
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 42,
+      "2023-08-27": 46,
+      "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
@@ -492,8 +493,7 @@
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
-      "2022-08-28": 1440,
-      "2022-08-27": 1440
+      "2022-08-28": 1440
     }
   }
 ]
