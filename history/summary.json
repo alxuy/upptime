@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 906,
-    "timeDay": 736,
-    "timeWeek": 851,
-    "timeMonth": 937,
+    "time": 905,
+    "timeDay": 689,
+    "timeWeek": 825,
+    "timeMonth": 936,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2023-01-25": 45,
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
     "time": 863,
-    "timeDay": 545,
-    "timeWeek": 827,
+    "timeDay": 678,
+    "timeWeek": 802,
     "timeMonth": 892,
-    "timeYear": 849,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2022-10-05": 1242,
       "2022-10-04": 1440,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 824,
-    "timeDay": 641,
-    "timeWeek": 746,
-    "timeMonth": 831,
-    "timeYear": 826,
+    "time": 823,
+    "timeDay": 630,
+    "timeWeek": 727,
+    "timeMonth": 827,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2023-01-25": 60
     }
@@ -81,9 +81,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1037,
-    "timeDay": 819,
-    "timeWeek": 932,
-    "timeMonth": 1011,
+    "timeDay": 790,
+    "timeWeek": 901,
+    "timeMonth": 1010,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2023-08-10": 17,
@@ -101,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 633,
-    "timeDay": 525,
-    "timeWeek": 609,
+    "time": 632,
+    "timeDay": 447,
+    "timeWeek": 590,
     "timeMonth": 646,
-    "timeYear": 633,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2023-05-16": 34,
       "2022-10-18": 25,
@@ -129,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-30": 44,
+      "2023-08-31": 44,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -492,8 +493,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   }
 ]
