@@ -25,18 +25,20 @@
     "url": "https://karat-bijouterie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 758,
-    "timeWeek": 782,
-    "timeMonth": 837,
+    "time": 859,
+    "timeDay": 803,
+    "timeWeek": 791,
+    "timeMonth": 838,
     "timeYear": 847,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   },
   {
     "name": "La gerbe d'or",
@@ -121,7 +123,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-13": 47,
+      "2023-10-13": 958,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
