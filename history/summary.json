@@ -25,9 +25,9 @@
     "url": "https://karat-bijouterie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 882,
     "timeYear": 851,
     "dailyMinutesDown": {
+      "2023-10-17": 0,
       "2023-10-13": 16
     }
   },
@@ -123,7 +124,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-17": 46,
+      "2023-10-17": 694,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
