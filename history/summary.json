@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 908,
-    "timeDay": 1094,
-    "timeWeek": 897,
-    "timeMonth": 941,
-    "timeYear": 903,
+    "timeDay": 752,
+    "timeWeek": 844,
+    "timeMonth": 927,
+    "timeYear": 904,
     "dailyMinutesDown": {
       "2023-01-25": 45,
       "2022-11-16": 103
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.93%",
-    "time": 868,
-    "timeDay": 1372,
-    "timeWeek": 1057,
-    "timeMonth": 991,
+    "time": 869,
+    "timeDay": 850,
+    "timeWeek": 1005,
+    "timeMonth": 987,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2023-10-19": 66,
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 820,
-    "timeDay": 1025,
-    "timeWeek": 838,
-    "timeMonth": 816,
-    "timeYear": 832,
+    "timeDay": 570,
+    "timeWeek": 781,
+    "timeMonth": 810,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2023-01-25": 60
     }
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1041,
-    "timeDay": 1183,
-    "timeWeek": 1138,
-    "timeMonth": 1069,
+    "time": 1040,
+    "timeDay": 701,
+    "timeWeek": 1067,
+    "timeMonth": 1063,
     "timeYear": 1040,
     "dailyMinutesDown": {
       "2023-10-03": 51,
@@ -98,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 628,
-    "timeDay": 906,
-    "timeWeek": 595,
-    "timeMonth": 613,
-    "timeYear": 599,
+    "time": 627,
+    "timeDay": 452,
+    "timeWeek": 562,
+    "timeMonth": 604,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2023-05-16": 34
     }
@@ -124,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-07": 47,
+      "2023-11-08": 46,
+      "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
@@ -487,8 +488,7 @@
       "2022-11-12": 1440,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
-      "2022-11-09": 1440,
-      "2022-11-08": 1440
+      "2022-11-09": 1440
     }
   }
 ]
