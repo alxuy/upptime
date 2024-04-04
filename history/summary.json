@@ -111,19 +111,19 @@
     "url": "https://www.intense-parapente.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.intense-parapente.fr.ico",
     "slug": "intense-parapente",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 828,
-    "timeDay": 830,
-    "timeWeek": 741,
-    "timeMonth": 791,
+    "timeDay": 877,
+    "timeWeek": 764,
+    "timeMonth": 795,
     "timeYear": 828,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 8
     }
   }
 ]
