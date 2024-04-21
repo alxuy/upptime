@@ -45,18 +45,19 @@
     "url": "https://lagerbedor92.fr",
     "icon": "https://icons.duckduckgo.com/ip3/lagerbedor92.fr.ico",
     "slug": "la-gerbe-d-or",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 819,
+    "time": 820,
     "timeDay": 721,
     "timeWeek": 1415,
     "timeMonth": 947,
     "timeYear": 804,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2024-04-15": 19
     }
   },
