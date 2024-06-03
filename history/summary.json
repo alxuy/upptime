@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lagerbedor92.fr.ico",
     "slug": "la-gerbe-d-or",
     "status": "down",
-    "uptime": "94.40%",
+    "uptime": "94.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.27%",
+    "uptimeYear": "88.04%",
     "time": 776,
     "timeDay": 617,
     "timeWeek": 548,
     "timeMonth": 498,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2024-06-03": 52,
+      "2024-06-03": 1290,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -158,9 +158,9 @@
     "url": "https://www.intense-parapente.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.intense-parapente.fr.ico",
     "slug": "intense-parapente",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -169,6 +169,8 @@
     "timeWeek": 1067,
     "timeMonth": 865,
     "timeYear": 832,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-03": 0
+    }
   }
 ]
