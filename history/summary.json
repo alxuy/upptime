@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 893,
-    "timeDay": 1095,
-    "timeWeek": 977,
+    "timeDay": 734,
+    "timeWeek": 994,
     "timeMonth": 928,
-    "timeYear": 893,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2024-10-04": 16,
       "2024-06-18": 184
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1038,
-    "timeDay": 1275,
-    "timeWeek": 1239,
-    "timeMonth": 1165,
-    "timeYear": 1050,
+    "timeDay": 957,
+    "timeWeek": 1230,
+    "timeMonth": 1166,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2024-10-08": 20
     }
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lagerbedor92.fr.ico",
     "slug": "la-gerbe-d-or",
     "status": "down",
-    "uptime": "66.87%",
+    "uptime": "66.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.97%",
-    "time": 610,
-    "timeDay": 674,
-    "timeWeek": 608,
-    "timeMonth": 564,
-    "timeYear": 556,
+    "uptimeYear": "1.69%",
+    "time": 609,
+    "timeDay": 372,
+    "timeWeek": 598,
+    "timeMonth": 560,
+    "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-04-14": 70,
+      "2025-04-15": 70,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -415,8 +416,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1090,
-      "2024-04-15": 19
+      "2024-04-21": 1090
     }
   },
   {
@@ -431,17 +431,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1013,
-    "timeDay": 1179,
-    "timeWeek": 1128,
-    "timeMonth": 1067,
-    "timeYear": 1029,
+    "timeDay": 831,
+    "timeWeek": 1133,
+    "timeMonth": 1042,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2025-03-07": 32,
       "2024-11-08": 16,
       "2024-10-17": 22,
       "2024-10-15": 25,
-      "2024-10-09": 23,
-      "2024-04-15": 21
+      "2024-10-09": 23
     }
   },
   {
@@ -456,10 +455,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 651,
-    "timeDay": 945,
-    "timeWeek": 723,
-    "timeMonth": 617,
-    "timeYear": 604,
+    "timeDay": 395,
+    "timeWeek": 713,
+    "timeMonth": 616,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2024-12-05": 17,
       "2024-04-18": 36
@@ -476,11 +475,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 840,
-    "timeDay": 1065,
-    "timeWeek": 1006,
-    "timeMonth": 883,
-    "timeYear": 841,
+    "time": 839,
+    "timeDay": 770,
+    "timeWeek": 1021,
+    "timeMonth": 885,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2024-06-04": 436,
       "2024-06-03": 150
