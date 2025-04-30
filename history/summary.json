@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 891,
-    "timeDay": 621,
+    "timeDay": 728,
     "timeWeek": 859,
-    "timeMonth": 896,
-    "timeYear": 890,
+    "timeMonth": 892,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2024-10-04": 16,
       "2024-06-18": 184
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1041,
-    "timeDay": 815,
-    "timeWeek": 1069,
-    "timeMonth": 1170,
-    "timeYear": 1051,
+    "time": 1040,
+    "timeDay": 838,
+    "timeWeek": 1063,
+    "timeMonth": 1162,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2024-10-08": 20
     }
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lagerbedor92.fr.ico",
     "slug": "la-gerbe-d-or",
     "status": "down",
-    "uptime": "65.95%",
+    "uptime": "65.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 603,
-    "timeDay": 485,
-    "timeWeek": 540,
+    "time": 602,
+    "timeDay": 523,
+    "timeWeek": 545,
     "timeMonth": 557,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2025-04-29": 69,
+      "2025-04-30": 70,
+      "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
@@ -420,8 +421,7 @@
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
-      "2024-05-01": 1440,
-      "2024-04-30": 1440
+      "2024-05-01": 1440
     }
   },
   {
@@ -436,10 +436,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1014,
-    "timeDay": 841,
-    "timeWeek": 968,
+    "timeDay": 922,
+    "timeWeek": 976,
     "timeMonth": 1017,
-    "timeYear": 1030,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2025-03-07": 32,
       "2024-11-08": 16,
@@ -460,9 +460,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 652,
-    "timeDay": 393,
-    "timeWeek": 603,
-    "timeMonth": 607,
+    "timeDay": 464,
+    "timeWeek": 604,
+    "timeMonth": 608,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2024-12-05": 17
@@ -480,9 +480,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 841,
-    "timeDay": 691,
-    "timeWeek": 851,
-    "timeMonth": 898,
+    "timeDay": 720,
+    "timeWeek": 852,
+    "timeMonth": 894,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2024-06-04": 436,
