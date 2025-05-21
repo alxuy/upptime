@@ -25,9 +25,9 @@
     "url": "https://karat-bijouterie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 1137,
     "timeYear": 1063,
     "dailyMinutesDown": {
+      "2025-05-21": 0,
       "2024-10-08": 20
     }
   },
@@ -46,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lagerbedor92.fr.ico",
     "slug": "la-gerbe-d-or",
     "status": "down",
-    "uptime": "64.65%",
+    "uptime": "64.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -57,7 +58,7 @@
     "timeMonth": 555,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-05-21": 72,
+      "2025-05-21": 1018,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
