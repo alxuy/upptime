@@ -1,7 +1,7 @@
 url: https://angkor-fougeres.fr
-status: up
-code: 200
-responseTime: 465
-lastUpdated: 2025-10-06T23:18:42.289Z
+status: down
+code: 503
+responseTime: 635
+lastUpdated: 2025-10-07T20:10:26.197Z
 startTime: 2022-04-30T00:37:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
