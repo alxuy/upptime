@@ -22,19 +22,19 @@
     "url": "https://karat-bijouterie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1099,
-    "timeDay": 1001,
+    "timeDay": 1148,
     "timeWeek": 1291,
-    "timeMonth": 1220,
+    "timeMonth": 1222,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-11-07": 0
+      "2025-11-07": 9
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 536,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2025-11-07": 1229,
+      "2025-11-07": 1238,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
@@ -458,7 +458,7 @@
     "time": 614,
     "timeDay": 469,
     "timeWeek": 631,
-    "timeMonth": 622,
+    "timeMonth": 627,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2025-10-07": 19,
@@ -475,7 +475,7 @@
     "uptime": "92.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.43%",
+    "uptimeMonth": "35.44%",
     "uptimeYear": "85.68%",
     "time": 871,
     "timeDay": 1006,
