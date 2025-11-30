@@ -22,18 +22,20 @@
     "url": "https://karat-bijouterie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1106,
+    "time": 1107,
     "timeDay": 1067,
     "timeWeek": 1299,
     "timeMonth": 1207,
     "timeYear": 1135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-30": 0
+    }
   },
   {
     "name": "La gerbe d'or",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lagerbedor92.fr.ico",
     "slug": "la-gerbe-d-or",
     "status": "down",
-    "uptime": "55.13%",
+    "uptime": "55.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -52,7 +54,7 @@
     "timeMonth": 541,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-11-30": 80,
+      "2025-11-30": 409,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
@@ -470,7 +472,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intense-parapente.fr.ico",
     "slug": "intense-parapente",
     "status": "up",
-    "uptime": "92.92%",
+    "uptime": "92.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
