@@ -4,18 +4,20 @@
     "url": "https://www.gites-keregal.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.gites-keregal.com.ico",
     "slug": "les-gites-de-keregal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 915,
-    "timeWeek": 840,
-    "timeMonth": 900,
-    "timeYear": 915,
-    "dailyMinutesDown": {}
+    "time": 915,
+    "timeDay": 673,
+    "timeWeek": 789,
+    "timeMonth": 885,
+    "timeYear": 913,
+    "dailyMinutesDown": {
+      "2025-12-18": 0
+    }
   },
   {
     "name": "Karat",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lagerbedor92.fr.ico",
     "slug": "la-gerbe-d-or",
     "status": "down",
-    "uptime": "54.38%",
+    "uptime": "54.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -52,7 +54,7 @@
     "timeMonth": 533,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-12-18": 73,
+      "2025-12-18": 447,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
