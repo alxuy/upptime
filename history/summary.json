@@ -28,17 +28,17 @@
     "url": "https://karat-bijouterie.fr",
     "icon": "https://icons.duckduckgo.com/ip3/karat-bijouterie.fr.ico",
     "slug": "karat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.10%",
-    "time": 1173,
-    "timeDay": 1514,
-    "timeWeek": 1386,
-    "timeMonth": 1246,
-    "timeYear": 1188,
+    "time": 1172,
+    "timeDay": 1046,
+    "timeWeek": 1285,
+    "timeMonth": 1225,
+    "timeYear": 1187,
     "dailyMinutesDown": {
       "2026-02-08": 34,
       "2026-07-16": 1188,
@@ -48,7 +48,8 @@
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
-      "2026-07-09": 140
+      "2026-07-09": 140,
+      "2026-09-24": 1
     }
   },
   {
@@ -57,7 +58,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lagerbedor92.fr.ico",
     "slug": "la-gerbe-d-or",
     "status": "down",
-    "uptime": "44.91%",
+    "uptime": "44.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -68,7 +69,7 @@
     "timeMonth": 0,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2026-09-24": 167,
+      "2026-09-24": 623,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
