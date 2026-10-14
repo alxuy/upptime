@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 915,
-    "timeDay": 938,
-    "timeWeek": 911,
-    "timeMonth": 879,
+    "timeDay": 1033,
+    "timeWeek": 962,
+    "timeMonth": 888,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2025-12-19": 660,
@@ -35,9 +35,9 @@
     "uptimeMonth": "98.36%",
     "uptimeYear": "97.96%",
     "time": 1177,
-    "timeDay": 1316,
-    "timeWeek": 1228,
-    "timeMonth": 1230,
+    "timeDay": 1222,
+    "timeWeek": 1234,
+    "timeMonth": 1225,
     "timeYear": 1186,
     "dailyMinutesDown": {
       "2026-02-08": 34,
@@ -58,18 +58,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lagerbedor92.fr.ico",
     "slug": "la-gerbe-d-or",
     "status": "down",
-    "uptime": "44.38%",
+    "uptime": "44.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 549,
+    "time": 550,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2026-10-13": 305,
+      "2026-10-14": 192,
+      "2026-10-13": 1440,
       "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
@@ -432,8 +433,7 @@
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
-      "2025-10-15": 1440,
-      "2025-10-14": 1440
+      "2025-10-15": 1440
     }
   },
   {
@@ -448,10 +448,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 944,
-    "timeDay": 687,
-    "timeWeek": 923,
-    "timeMonth": 1202,
-    "timeYear": 996,
+    "timeDay": 982,
+    "timeWeek": 1060,
+    "timeMonth": 1198,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2025-12-05": 20,
       "2026-03-17": 57,
@@ -472,9 +472,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 634,
-    "timeDay": 851,
-    "timeWeek": 611,
-    "timeMonth": 620,
+    "timeDay": 721,
+    "timeWeek": 637,
+    "timeMonth": 616,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2025-11-14": 17,
@@ -499,12 +499,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.09%",
-    "time": 975,
-    "timeDay": 1086,
-    "timeWeek": 1034,
-    "timeMonth": 1039,
-    "timeYear": 989,
+    "uptimeYear": "96.34%",
+    "time": 976,
+    "timeDay": 1217,
+    "timeWeek": 1101,
+    "timeMonth": 1049,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2025-10-27": 716,
       "2025-10-26": 1440,
@@ -518,8 +518,7 @@
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
-      "2025-10-15": 1440,
-      "2025-10-14": 1440
+      "2025-10-15": 1440
     }
   }
 ]
